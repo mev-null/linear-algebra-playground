@@ -18,7 +18,8 @@ My goal is to bridge the gap between abstract mathematical concepts and practica
 ## 📚 Study Log & Topics
 | Chapter | Topic | Key Implementation / Experiment | Status |
 | :--- | :--- | :--- | :--- |
-| Ch 1 | Vectors & Combinations | Visualize vector combinations | 🚧 In Progress |
+| Ch 1 | Vectors & Combinations | Visualize vector combinations | ✅ Done |
+| ch 2 | Solving Linear Equations ($Ax=b$) | 🚧 In Progress |
 | Ch 3 | Vector Spaces | Computing Null Space & Rank |  |
 | Ch 4 | Orthogonality | Projection onto subspaces (Least Squares) | |
 | Ch 6 | Eigenvalues | | |
